@@ -1,0 +1,12 @@
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\bin\Debug\net5.0\SweetnSaltyModels.deps.json
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\bin\Debug\net5.0\SweetnSaltyModels.dll
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\bin\Debug\net5.0\ref\SweetnSaltyModels.dll
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\bin\Debug\net5.0\SweetnSaltyModels.pdb
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.csproj.AssemblyReference.cache
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.AssemblyInfoInputs.cache
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.AssemblyInfo.cs
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.csproj.CoreCompileInputs.cache
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.dll
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\ref\SweetnSaltyModels.dll
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.pdb

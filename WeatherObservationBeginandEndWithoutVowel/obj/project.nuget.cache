@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g6/fqz3Ya1ctXUny5z/QEgw9f7zarvr2TeXNykynEa0iV6EAACoAeOnvO2+qYsaX9QWHo3uVo6tp4C8MKN8Aww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Terrence\\Desktop\\12062021_batch\\MyRevatureRepo\\WeatherObservationBeginandEndWithoutVowel\\WeatherObservationBeginandEndWithoutVowel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Terrence\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

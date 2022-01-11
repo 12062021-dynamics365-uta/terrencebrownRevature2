@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nPkd7BN/dauKDIEGkHFA51FFzpPjcjaLZgxRX0ykjX323p2I7aKdKs5/bl6TDp9FHxEzQele8xJS6zLmeWa3aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Terrence\\Desktop\\12062021_batch\\MyRevatureRepo\\HomeWorkDemo\\HomeWorkDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Terrence\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

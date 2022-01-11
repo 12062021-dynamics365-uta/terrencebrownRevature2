@@ -1,0 +1,15 @@
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\HomeWorkDemo\bin\Debug\net5.0\HomeWorkDemo.exe
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\HomeWorkDemo\bin\Debug\net5.0\HomeWorkDemo.deps.json
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\HomeWorkDemo\bin\Debug\net5.0\HomeWorkDemo.runtimeconfig.json
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\HomeWorkDemo\bin\Debug\net5.0\HomeWorkDemo.runtimeconfig.dev.json
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\HomeWorkDemo\bin\Debug\net5.0\HomeWorkDemo.dll
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\HomeWorkDemo\bin\Debug\net5.0\ref\HomeWorkDemo.dll
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\HomeWorkDemo\bin\Debug\net5.0\HomeWorkDemo.pdb
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\HomeWorkDemo\obj\Debug\net5.0\HomeWorkDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\HomeWorkDemo\obj\Debug\net5.0\HomeWorkDemo.AssemblyInfoInputs.cache
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\HomeWorkDemo\obj\Debug\net5.0\HomeWorkDemo.AssemblyInfo.cs
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\HomeWorkDemo\obj\Debug\net5.0\HomeWorkDemo.csproj.CoreCompileInputs.cache
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\HomeWorkDemo\obj\Debug\net5.0\HomeWorkDemo.dll
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\HomeWorkDemo\obj\Debug\net5.0\ref\HomeWorkDemo.dll
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\HomeWorkDemo\obj\Debug\net5.0\HomeWorkDemo.pdb
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\HomeWorkDemo\obj\Debug\net5.0\HomeWorkDemo.genruntimeconfig.cache

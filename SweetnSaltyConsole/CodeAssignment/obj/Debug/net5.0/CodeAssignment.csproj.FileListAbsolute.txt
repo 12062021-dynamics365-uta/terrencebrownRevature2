@@ -1,0 +1,16 @@
+C:\Users\Terrence\Desktop\12062021_batch\SweetnSaltyConsole\CodeAssignment\bin\Debug\net5.0\CodeAssignment.exe
+C:\Users\Terrence\Desktop\12062021_batch\SweetnSaltyConsole\CodeAssignment\bin\Debug\net5.0\CodeAssignment.deps.json
+C:\Users\Terrence\Desktop\12062021_batch\SweetnSaltyConsole\CodeAssignment\bin\Debug\net5.0\CodeAssignment.runtimeconfig.json
+C:\Users\Terrence\Desktop\12062021_batch\SweetnSaltyConsole\CodeAssignment\bin\Debug\net5.0\CodeAssignment.runtimeconfig.dev.json
+C:\Users\Terrence\Desktop\12062021_batch\SweetnSaltyConsole\CodeAssignment\bin\Debug\net5.0\CodeAssignment.dll
+C:\Users\Terrence\Desktop\12062021_batch\SweetnSaltyConsole\CodeAssignment\bin\Debug\net5.0\ref\CodeAssignment.dll
+C:\Users\Terrence\Desktop\12062021_batch\SweetnSaltyConsole\CodeAssignment\bin\Debug\net5.0\CodeAssignment.pdb
+C:\Users\Terrence\Desktop\12062021_batch\SweetnSaltyConsole\CodeAssignment\obj\Debug\net5.0\CodeAssignment.csproj.AssemblyReference.cache
+C:\Users\Terrence\Desktop\12062021_batch\SweetnSaltyConsole\CodeAssignment\obj\Debug\net5.0\CodeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terrence\Desktop\12062021_batch\SweetnSaltyConsole\CodeAssignment\obj\Debug\net5.0\CodeAssignment.AssemblyInfoInputs.cache
+C:\Users\Terrence\Desktop\12062021_batch\SweetnSaltyConsole\CodeAssignment\obj\Debug\net5.0\CodeAssignment.AssemblyInfo.cs
+C:\Users\Terrence\Desktop\12062021_batch\SweetnSaltyConsole\CodeAssignment\obj\Debug\net5.0\CodeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Terrence\Desktop\12062021_batch\SweetnSaltyConsole\CodeAssignment\obj\Debug\net5.0\CodeAssignment.dll
+C:\Users\Terrence\Desktop\12062021_batch\SweetnSaltyConsole\CodeAssignment\obj\Debug\net5.0\ref\CodeAssignment.dll
+C:\Users\Terrence\Desktop\12062021_batch\SweetnSaltyConsole\CodeAssignment\obj\Debug\net5.0\CodeAssignment.pdb
+C:\Users\Terrence\Desktop\12062021_batch\SweetnSaltyConsole\CodeAssignment\obj\Debug\net5.0\CodeAssignment.genruntimeconfig.cache
