@@ -1,0 +1,17 @@
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\bin\Debug\net5.0\SweetnSaltyBusiness.deps.json
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\bin\Debug\net5.0\SweetnSaltyBusiness.dll
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\bin\Debug\net5.0\ref\SweetnSaltyBusiness.dll
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\bin\Debug\net5.0\SweetnSaltyBusiness.pdb
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\bin\Debug\net5.0\SweetnSaltyDbAccess.dll
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\bin\Debug\net5.0\SweetnSaltyModels.dll
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\bin\Debug\net5.0\SweetnSaltyDbAccess.pdb
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\bin\Debug\net5.0\SweetnSaltyModels.pdb
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\obj\Debug\net5.0\SweetnSaltyBusiness.csproj.AssemblyReference.cache
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\obj\Debug\net5.0\SweetnSaltyBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\obj\Debug\net5.0\SweetnSaltyBusiness.AssemblyInfoInputs.cache
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\obj\Debug\net5.0\SweetnSaltyBusiness.AssemblyInfo.cs
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\obj\Debug\net5.0\SweetnSaltyBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\obj\Debug\net5.0\SweetnSaltyBusiness.csproj.CopyComplete
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\obj\Debug\net5.0\SweetnSaltyBusiness.dll
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\obj\Debug\net5.0\ref\SweetnSaltyBusiness.dll
+C:\Users\Terrence\Desktop\12062021_batch\terrencebrownRevature1\SweetSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\obj\Debug\net5.0\SweetnSaltyBusiness.pdb

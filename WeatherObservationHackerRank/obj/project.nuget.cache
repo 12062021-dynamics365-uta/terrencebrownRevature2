@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n85+7ZHIjRs5dLsdRQrlH5BmJNgZh8iNf8s8BDOg6I0WlPE4ZtzL9mbwXlClCclTJKYWYpWyQ59lkuawQBHcrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Terrence\\Desktop\\12062021_batch\\MyRevatureRepo\\WeatherObservationHackerRank\\WeatherObservationHackerRank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Terrence\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

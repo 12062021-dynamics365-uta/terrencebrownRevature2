@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vm5GC+NflN1yFcZxGSlzke1L8zMiKz+JJXBGfPutu0tZgDzyIj57zufPfuM8oyo6QiKEZeQn74MEP1bYDZZrYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Terrence\\Desktop\\12062021_batch\\MyRevatureRepo\\CodeChallenges\\6_FlowControl\\6_FlowControl\\6_FlowControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Terrence\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

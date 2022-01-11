@@ -1,0 +1,14 @@
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\CodeChallenges\5_Operators\5_Operators\bin\Debug\netcoreapp3.1\5_Operators.exe
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\CodeChallenges\5_Operators\5_Operators\bin\Debug\netcoreapp3.1\5_Operators.deps.json
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\CodeChallenges\5_Operators\5_Operators\bin\Debug\netcoreapp3.1\5_Operators.runtimeconfig.json
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\CodeChallenges\5_Operators\5_Operators\bin\Debug\netcoreapp3.1\5_Operators.runtimeconfig.dev.json
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\CodeChallenges\5_Operators\5_Operators\bin\Debug\netcoreapp3.1\5_Operators.dll
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\CodeChallenges\5_Operators\5_Operators\bin\Debug\netcoreapp3.1\5_Operators.pdb
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\CodeChallenges\5_Operators\5_Operators\obj\Debug\netcoreapp3.1\5_Operators.csproj.AssemblyReference.cache
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\CodeChallenges\5_Operators\5_Operators\obj\Debug\netcoreapp3.1\5_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\CodeChallenges\5_Operators\5_Operators\obj\Debug\netcoreapp3.1\5_Operators.AssemblyInfoInputs.cache
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\CodeChallenges\5_Operators\5_Operators\obj\Debug\netcoreapp3.1\5_Operators.AssemblyInfo.cs
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\CodeChallenges\5_Operators\5_Operators\obj\Debug\netcoreapp3.1\5_Operators.csproj.CoreCompileInputs.cache
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\CodeChallenges\5_Operators\5_Operators\obj\Debug\netcoreapp3.1\5_Operators.dll
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\CodeChallenges\5_Operators\5_Operators\obj\Debug\netcoreapp3.1\5_Operators.pdb
+C:\Users\Terrence\Desktop\12062021_batch\MyRevatureRepo\CodeChallenges\5_Operators\5_Operators\obj\Debug\netcoreapp3.1\5_Operators.genruntimeconfig.cache

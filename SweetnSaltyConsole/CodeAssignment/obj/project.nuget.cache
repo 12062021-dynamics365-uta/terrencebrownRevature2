@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K3MTPrRDkDt+sgaUUC7/nSnGwD5DU0Wiu0K/yymVZZPJPHk84KDeFgnsMKXP0NEvQet+09U38YZIt/UnitX7lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Terrence\\Desktop\\12062021_batch\\SweetnSaltyConsole\\CodeAssignment\\CodeAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Terrence\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
